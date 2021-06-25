@@ -1,1 +1,1 @@
-# flask-ml-sever
+# flask-ml-server
